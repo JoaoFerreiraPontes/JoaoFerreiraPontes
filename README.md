@@ -2,7 +2,7 @@
 
 # João Victor Pontes
 
-<img src="" width="250" align="right" />
+<img src="846-lg-removebg-preview.png" width="250" align="right" />
 
 Engenheiro de Energia em formação e Desenvolvedor focado em IA e Sistemas Embarcados. Atualmente, aplico tecnologia para otimizar o setor de energia eólica.
 
