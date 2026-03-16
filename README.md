@@ -16,4 +16,4 @@ Engenheiro de Energia em formação e Desenvolvedor focado em IA e Sistemas Emba
 
 ### Minhas redes
 - [LinkedIn](https://www.linkedin.com/in/joao-victor-pontes)  
-- joao.victorperes@hotmail.com
+- joao.peres@ieee.org | jvctrperes@gmail.com
