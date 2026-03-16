@@ -1,26 +1,41 @@
+<div align="center">
+
 # João Victor Pontes
 
-![Banner](https://capsule-render.vercel.app/render?type=waving&color=005172&height=120&section=header&text=Energy%20Engineering%20%7C%20AI&fontSize=30)
+> Engenheiro de Energia em formação e Desenvolvedor focado em IA e Sistemas Embarcados. Atualmente, aplico tecnologia para otimizar o setor de energia eólica.
 
-Engenheiro de Energia em formação e Desenvolvedor focado em IA e Sistemas Embarcados. Atualmente, aplico tecnologia para otimizar o setor de energia eólica.
+<br>
 
 ### Atualmente
-* **Young Energy na Vestas**: Atuando no departamento de Tarefas Especiais - Pás (Blades).
-![Vestas](https://img.shields.io/badge/Vestas-005172?style=flat-square&logo=vestas&logoColor=white)
-* **Residência Tecnológica**: Especialização em Arquitetura de Software para Sistemas Embarcados utilizando C++ e MicroPython.
-![EmbarcaTech](https://img.shields.io/badge/EmbarcaTech-009245?style=flat-square)
+<img src="https://img.shields.io/badge/Vestas-005172?style=for-the-badge&logo=vestas&logoColor=white" />
+<img src="https://img.shields.io/badge/EmbarcaTech-009245?style=for-the-badge" />
 
-### Tools e Linguagens
-* **Linguagens**: Python (Pandas, Polars, Flask, TensorFlow), JavaScript, C++ e SQL.
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-* **IA Generativa**: Desenvolvimento de RAG pipelines e agentes com LangChain, LlamaIndex, Qdrant e Agno.
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-FF4136?style=flat-square)
-* **Dados e Cloud**: PostgreSQL, Smartsheet API e fluxos de embedding.
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Smartsheet](https://img.shields.io/badge/Smartsheet-4BBB47?style=flat-square&logo=smartsheet&logoColor=white)
+<br><br>
 
 ### Tech Stack
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFerreiraPontes&layout=compact&theme=dark&hide_border=true)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Polars-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Qdrant-FF4136?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agno-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Smartsheet-4BBB47?style=for-the-badge&logo=smartsheet&logoColor=white" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFerreiraPontes&layout=compact&theme=dark&hide_border=true" />
+
+<br><br>
 
 ### Contato
-* [LinkedIn](https://www.linkedin.com/in/joao-victor-pontes)
-* joao.victorperes@hotmail.com
+<a href="https://www.linkedin.com/in/joao-victor-pontes"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:joao.victorperes@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
