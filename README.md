@@ -1,6 +1,6 @@
 <div align="center">
 
-# João Victor Pontes
+# João Abrantes
 
 > Engenheiro de Energia em formação e Desenvolvedor focado em IA e Sistemas Embarcados. Atualmente, aplico tecnologia para otimizar o setor de energia eólica.
 
