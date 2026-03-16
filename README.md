@@ -1,3 +1,9 @@
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" width="100%" />
+
+# João Victor Pontes
+
+<img src="https://cdn.dribbble.com/users/2457221/screenshots/19869130/media/f8afadb465862adf9279d21cacf44b03.gif" width="100" align="right" />
+
 Engenheiro de Energia em formação e Desenvolvedor focado em IA e Sistemas Embarcados. Atualmente, aplico tecnologia para otimizar o setor de energia eólica.
 
 ### Atualmente:
@@ -17,3 +23,6 @@ Engenheiro de Energia em formação e Desenvolvedor focado em IA e Sistemas Emba
 ### Minhas redes
 - [LinkedIn](https://www.linkedin.com/in/joao-victor-pontes)  
 - joao.peres@ieee.org | jvctrperes@gmail.com
+
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" width="100%" />
