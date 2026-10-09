@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/3e/94/3e/3e943ec801b0750b7bb0404d2282ea68.png" width="60%" />
+<img src="https://chuvadenanquim.wordpress.com/wp-content/uploads/2013/04/kokou-no-hito-5.jpg" width="60%" />
 
 # João Abrantes
 
