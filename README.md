@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/lCF6XzElrpsAAAAe/kokou-no-hito-the-climber.png" width="60%" />
+<img src="https://i.pinimg.com/originals/3e/94/3e/3e943ec801b0750b7bb0404d2282ea68.png" width="60%" />
 
 # João Abrantes
 
