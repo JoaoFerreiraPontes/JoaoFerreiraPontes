@@ -63,13 +63,12 @@ Energy Engineer in training and Developer focused on AI and Embedded Systems. Cu
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square" /> <img src="https://img.shields.io/badge/Oh_My_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" /> <img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" /> <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white" /> <img src="https://img.shields.io/badge/Smartsheet-4BBB47?style=flat-square&logo=smartsheet&logoColor=white" />
 </div>
 <br><br>
-
+<div align="center">
+  
 ### Social Medias
 [LinkedIn](https://www.linkedin.com/in/joao-victor-pontes) | joao.peres@ieee.org | jvctrperes@gmail.com
 <br>
 <img src="https://i.postimg.cc/CxbKghPW/gojo-finger-up.png" width="220" />
-
 <br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" width="100%" />
 </div>
